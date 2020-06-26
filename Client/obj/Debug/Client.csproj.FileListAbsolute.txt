@@ -1,0 +1,11 @@
+C:\Users\milos\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\milos\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\milos\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\milos\source\repos\Client\Client\obj\Debug\Client.Form2.resources
